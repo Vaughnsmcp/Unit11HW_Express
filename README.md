@@ -34,9 +34,3 @@ Copyright (c) 2020 **_Vaughn McPherson_**
 
 
 
-Message Elrey Belmonti
-
-
-Thread
-ask-the-class
-
